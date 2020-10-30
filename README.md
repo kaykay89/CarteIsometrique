@@ -177,10 +177,6 @@ Optional arguments:
                            If not specified, displays on stdout.
 ~~~
 
-## Auteur
-
-Alexandre Blondin Massé
-
 ## Installation
 
 Actuellement, l'installation se fait uniquement à partir du code source. Il
